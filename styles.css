@@ -7,3 +7,22 @@
   opacity: .2;
   position: fixed;
 }
+
+.class {
+  display: flex;
+  justify-content: center;
+}
+
+.class2 {
+  display: flex;
+  justify-content: center;
+  font-size: 200px;
+
+.coolButton {
+  margin-left: 20%;
+}
+  
+button:hover {
+  transform: scale(1.5);
+  background-color: antiquewhite;
+}
