@@ -3,6 +3,11 @@
   padding: 0;
 }
 
+.img-1{
+  opacity: .2;
+  position: fixed;
+}
+
 .class {
   display: flex;
   justify-content: center;
